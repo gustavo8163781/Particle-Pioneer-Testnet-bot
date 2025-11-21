@@ -13,11 +13,7 @@ Automating transactions on the Ethereum testnet using multiple private keys on P
 
 ## Usage
 
-- **Run the application:**
 
-  ```bash
-  node index.js
-  ```
 
 - Follow the prompts to enter the number of transactions to send per private key.
  
